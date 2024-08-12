@@ -46,3 +46,12 @@ that the winter months might be windier.
   * Spring (Apr - Jun): Wind speeds fluctuate, with a peak in April (17.37 km/h) and then a decrease in May and June.
   * Summer (Jul - Sep): The wind speed is lowest in July, gradually increasing through August and September.
   * Fall (Oct - Dec): Wind speeds rise in October and November, with another peak in December.
+### Visibility:
+* **Overall Trend:** The line chart will show the variation in visibility throughout the year, with periods of higher and lower visibility.
+* **Highest Visibility:** The highest average visibility occurs in July (33.66 km), indicating that mid-summer tends to have the clearest conditions.
+* **Lowest Visibility:** The lowest average visibility is in December (19.73 km), suggesting that winter months, particularly December, might have more foggy or hazy conditions, reducing visibility.
+* **Seasonal Variation:**</br>
+  * Winter (Jan - Mar): Visibility starts relatively low in January (22.10 km) and increases through February and March.
+  * Spring (Apr - Jun): Visibility continues to improve, peaking slightly in June (32.10 km).
+  * Summer (Jul - Sep): The visibility is highest in July and then slightly decreases in August and September.
+  * Fall (Oct - Dec): Visibility begins to drop in October and November, reaching the lowest point in December.
