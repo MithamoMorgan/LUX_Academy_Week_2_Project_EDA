@@ -116,7 +116,8 @@ The above weather data EDA help understand and utilize weather data insights to 
 **1. Agriculture:**</br>
 Planting and Harvesting Schedules: Farmers can use insights on temperature, humidity, and wind patterns to optimize planting and harvesting schedules, ensuring crops are planted during favorable conditions and protected from adverse weather.
 Pest and Disease Control: Understanding humidity and temperature patterns can help in predicting the onset of conditions that favor pest and disease outbreaks, enabling timely interventions.
-**2. Energy Sector:**
+
+**2. Energy Sector:**</br>
 Wind Energy Production: Insights into seasonal wind speed variations can inform the optimal placement and operation of wind turbines. Knowing that winter months typically have higher wind speeds can help in predicting energy production levels.
 Energy Demand Forecasting: Understanding temperature patterns helps in forecasting energy demand, as colder months require more heating, while warmer months increase cooling demand.
 **3. Transportation:**
