@@ -1,5 +1,5 @@
 # WEATHER DATA EXPLORATORY DATA ANALYSIS
-! [](https://github.com/MorganTheAnalyst/LUX_Academy_Week_2_Project_EDA/blob/master/Images/pexels-elmir-jafarov-375483362-19882256.jpg)
+![](https://github.com/MorganTheAnalyst/LUX_Academy_Week_2_Project_EDA/blob/master/Images/pexels-elmir-jafarov-375483362-19882256.jpg)
 
 The aim of the project is to perform exploratory data analysis to uncover interesting patterns, insights, and potential anomalies within the weather dataset.
 It is a continuation of the [week 1](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis) project.
