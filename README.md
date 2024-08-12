@@ -10,3 +10,5 @@ The dataset has  8784 entries and 8 columns which are;
 * Visibility_Km </br>
 * Press_Kpa </br>
 * Weather </br>
+The dataset do not have any missing, null values or duplicate records.
+### Weather Patterns and Trends
