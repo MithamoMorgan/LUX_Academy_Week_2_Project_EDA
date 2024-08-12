@@ -84,7 +84,7 @@ Possible Reason: December’s low visibility could be due to winter fog, mist, o
 #### 6. Pressure:
 Anomaly: The pressure in April (100.72 hPa) is slightly lower compared to March (101.34 hPa) and May (101.06 hPa).
 Possible Reason: April might have experienced a significant low-pressure system, which is often associated with stormy or unsettled weather. This could explain the dip in pressure during that month.
-### Insights:
+## Insights:
 #### Seasonal Patterns:
 * **Temperature and Dew Point:** Follow a typical seasonal pattern, with colder and drier conditions in winter, and warmer, more humid conditions in summer.
 * **Pressure:** Generally higher in late fall (November) and lower in spring (April), suggesting stable weather in fall and more unsettled conditions in spring.
