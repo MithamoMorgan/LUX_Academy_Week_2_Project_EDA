@@ -1,7 +1,7 @@
-## WEATHER DATA EXPLORATORY DATA ANALYSIS
+# WEATHER DATA EXPLORATORY DATA ANALYSIS
 The aim of the project is to perform exploratory data analysis to uncover interesting patterns, insights, and potential anomalies within the weather dataset.
 It is a continuation of the [week 1](https://github.com/MorganTheAnalyst/Lux-Academy-Week-1-Project-Python-Sql-for-Data-Science-and-Analysis) project.
-### Data Overview and Cleaning:
+## Data Overview and Cleaning:
 The dataset has  8784 entries and 8 columns which are;
 * Date/Time </br>
 * Temp_C </br>
@@ -12,7 +12,7 @@ The dataset has  8784 entries and 8 columns which are;
 * Press_Kpa </br>
 * Weather </br>
 The dataset do not have any missing, null values or duplicate records.
-### Weather Patterns and Trends
+## Weather Patterns and Trends
 ### Temp:
 * **Overall Trend:** The line chart shows a clear seasonal pattern, with temperatures starting low in the winter months, rising through the spring and summer, and then decreasing again as winter approaches.
 * **Lowest Temperature:** The lowest average temperature occurs in January (-7.37°C), which is typical for winter.
