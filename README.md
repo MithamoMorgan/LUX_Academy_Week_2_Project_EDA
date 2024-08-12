@@ -112,6 +112,7 @@ The data shows that seasonal changes largely follow expected patterns, but speci
 
 ### Q. How can these insights be useful for real world application
 The above weather data EDA help understand and utilize weather data insights to enhance safety, efficiency, and preparedness across various sectors such as:
+
 **1. Agriculture:**</br>
 Planting and Harvesting Schedules: Farmers can use insights on temperature, humidity, and wind patterns to optimize planting and harvesting schedules, ensuring crops are planted during favorable conditions and protected from adverse weather.
 Pest and Disease Control: Understanding humidity and temperature patterns can help in predicting the onset of conditions that favor pest and disease outbreaks, enabling timely interventions.
