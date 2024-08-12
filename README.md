@@ -19,7 +19,7 @@ The lowest average temperature by month is -3 degrees celcius while the highest 
 * Overall Trend: The values start in the negative during the winter months, increase through spring and summer, and then decrease again as winter approaches.
 * Lowest Dew Point: The lowest dew point occurs in January (-12.29°C), suggesting very dry air during the winter, which is typical for colder months.
 * Highest Dew Point: The highest dew point is in August (15.64°C), indicating more moisture in the air during late summer.</br>
-**Seasonal Variation:**
+* **Seasonal Variation:**
 * Winter (Jan - Mar): The dew point temperatures are negative, indicating cold and dry conditions.
 * Spring (Apr - Jun): The dew point begins to rise, indicating an increase in moisture as the weather warms.
 * Summer (Jul - Sep): The dew point peaks in August, suggesting a warm and humid period.
