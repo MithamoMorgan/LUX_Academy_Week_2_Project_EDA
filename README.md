@@ -14,16 +14,23 @@ The dataset has  8784 entries and 8 columns which are;
 The dataset do not have any missing, null values or duplicate records.
 ### Weather Patterns and Trends
 ### Temp:
-The lowest average temperature by month is -3 degrees celcius while the highest is 22 degrees celcius.There is a consistent rise in temperature from January to July then a consistent drop from July to December.
+* **Overall Trend:** The line chart shows a clear seasonal pattern, with temperatures starting low in the winter months, rising through the spring and summer, and then decreasing again as winter approaches.
+* **Lowest Temperature:** The lowest average temperature occurs in January (-7.37°C), which is typical for winter.
+* **Highest Temperature:** The highest average temperature is in July (22.79°C), indicating the peak of summer warmth.
+* **Seasonal Variation:**
+  Winter (Jan - Mar): The temperatures are below freezing, with January being the coldest month.
+  Spring (Apr - Jun): The temperatures rise steadily, indicating a warming trend as the season progresses.
+  Summer (Jul - Sep): Temperatures peak in July, with slight cooling beginning in September.
+  Fall (Oct - Dec): The temperatures gradually drop, with November and December showing a return to near or below freezing     conditions.
 ### Dew Point Temp:
 * Overall Trend: The values start in the negative during the winter months, increase through spring and summer, and then decrease again as winter approaches.
 * Lowest Dew Point: The lowest dew point occurs in January (-12.29°C), suggesting very dry air during the winter, which is typical for colder months.
 * Highest Dew Point: The highest dew point is in August (15.64°C), indicating more moisture in the air during late summer.</br>
 * **Seasonal Variation:**
-* Winter (Jan - Mar): The dew point temperatures are negative, indicating cold and dry conditions.
-* Spring (Apr - Jun): The dew point begins to rise, indicating an increase in moisture as the weather warms.
-* Summer (Jul - Sep): The dew point peaks in August, suggesting a warm and humid period.
-* Fall (Oct - Dec): The dew point gradually decreases, with temperatures dipping back into negative territory as winter approaches.
+  * Winter (Jan - Mar): The dew point temperatures are negative, indicating cold and dry conditions.
+  * Spring (Apr - Jun): The dew point begins to rise, indicating an increase in moisture as the weather warms.
+  * Summer (Jul - Sep): The dew point peaks in August, suggesting a warm and humid period.
+  * Fall (Oct - Dec): The dew point gradually decreases, with temperatures dipping back into negative territory as winter        approaches.
 ### Humidity:
 * Overall Trend: The line chart shows how average humidity varies over the year. Based on the values, there's a noticeable fluctuation in humidity throughout the year.
 * Lowest Humidity: The lowest average humidity appears to be in April (56.15%), indicating a potentially drier period during the spring.
