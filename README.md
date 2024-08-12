@@ -55,3 +55,13 @@ that the winter months might be windier.
   * Spring (Apr - Jun): Visibility continues to improve, peaking slightly in June (32.10 km).
   * Summer (Jul - Sep): The visibility is highest in July and then slightly decreases in August and September.
   * Fall (Oct - Dec): Visibility begins to drop in October and November, reaching the lowest point in December.
+### Pressure:
+* **Overall Trend:** The line chart will show the variation in atmospheric pressure throughout the year, with fluctuations in different months.
+* **Highest Pressure:** The highest average pressure occurs in November (101.66 hPa), indicating a potential increase in high-pressure systems during this time, often associated with more stable weather conditions.
+* **Lowest Pressure:** The lowest average pressure is in April (100.72 hPa), suggesting the presence of low-pressure systems, which can be associated with unsettled weather, such as storms or rain.
+* **Seasonal Variation:** </br>
+  * Winter (Jan - Mar): Pressure starts moderate in January, slightly increases in February, and reaches a higher value in 
+    March (101.34 hPa).
+  * Spring (Apr - Jun): Pressure dips in April and May, with a slight increase in June.
+  * Summer (Jul - Sep): Pressure remains relatively stable, with minor fluctuations through July, August, and September.
+  * Fall (Oct - Dec): Pressure increases in October, peaks in November, and remains high in December.
