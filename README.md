@@ -16,8 +16,8 @@ The dataset do not have any missing, null values or duplicate records.
 ### Temp:
 * **Overall Trend:** The line chart shows a clear seasonal pattern, with temperatures starting low in the winter months, rising through the spring and summer, and then decreasing again as winter approaches.
 * **Lowest Temperature:** The lowest average temperature occurs in January (-7.37°C), which is typical for winter.
-* **Highest Temperature:** The highest average temperature is in July (22.79°C), indicating the peak of summer warmth.</br>
-* **Seasonal Variation:**
+* **Highest Temperature:** The highest average temperature is in July (22.79°C), indicating the peak of summer warmth.
+* **Seasonal Variation:**</br>
   Winter (Jan - Mar): The temperatures are below freezing, with January being the coldest month.
   Spring (Apr - Jun): The temperatures rise steadily, indicating a warming trend as the season progresses.
   Summer (Jul - Sep): Temperatures peak in July, with slight cooling beginning in September.
