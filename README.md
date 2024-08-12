@@ -36,3 +36,13 @@ The dataset do not have any missing, null values or duplicate records.
 * Lowest Humidity: The lowest average humidity appears to be in April (56.15%), indicating a potentially drier period during the spring.
 * Highest Humidity: The highest average humidity is in December (81.30%), which might suggest a more humid winter season.
 * Seasonal Variation: There’s a general rise in humidity from spring (April) to early summer (July), a slight dip in late summer (August), and then another rise through the fall and early winter.
+### Wind Speed:
+* **Overall Trend:** The line chart shows the fluctuation of wind speeds throughout the year, with some months experiencing higher winds than others.
+* **Highest Wind Speed:** The highest average wind speed is in January (18.11 km/h) and December (17.61 km/h), indicating 
+that the winter months might be windier.
+* **Lowest Wind Speed:** The lowest average wind speed is in July (11.89 km/h), suggesting calmer conditions during mid-summer.
+* **Seasonal Variation:** </br>
+  * Winter (Jan - Mar): Wind speeds start high in January and then decrease in February and March.
+  * Spring (Apr - Jun): Wind speeds fluctuate, with a peak in April (17.37 km/h) and then a decrease in May and June.
+  * Summer (Jul - Sep): The wind speed is lowest in July, gradually increasing through August and September.
+  * Fall (Oct - Dec): Wind speeds rise in October and November, with another peak in December.
