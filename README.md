@@ -120,13 +120,16 @@ Pest and Disease Control: Understanding humidity and temperature patterns can he
 **2. Energy Sector:**</br>
 Wind Energy Production: Insights into seasonal wind speed variations can inform the optimal placement and operation of wind turbines. Knowing that winter months typically have higher wind speeds can help in predicting energy production levels.
 Energy Demand Forecasting: Understanding temperature patterns helps in forecasting energy demand, as colder months require more heating, while warmer months increase cooling demand.
-**3. Transportation:**
+
+**3. Transportation:**</br>
 Aviation: Pilots and air traffic controllers can use visibility and wind speed data to plan safer flight routes and schedules, particularly in months with known low visibility or high wind speeds.
 Road Safety: Road maintenance and safety teams can prepare for winter conditions by anticipating lower visibility and higher wind speeds, leading to proactive measures like salting roads or issuing travel advisories.
-**4. Public Health:**
+
+**4. Public Health:**</br>
 Air Quality Management: Insights into visibility and pressure can help predict air quality, as low pressure and low visibility might indicate higher pollution levels or fog, which can exacerbate respiratory conditions.
 Heatwaves and Cold Spells: Identifying months with extreme temperatures can help public health officials prepare for heatwaves or cold spells, issuing warnings and opening shelters as needed.
-**5. Disaster Preparedness:**
+
+**5. Disaster Preparedness:**</br>
 Storm Prediction: The ability to detect low-pressure anomalies can aid in early storm warnings, giving communities more time to prepare for potential flooding or high winds.
 Emergency Response: Understanding weather patterns helps in planning and allocating resources for emergency response, such as positioning snowplows in winter or preparing flood defenses in spring.
 
