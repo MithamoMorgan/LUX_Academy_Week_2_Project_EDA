@@ -65,3 +65,29 @@ that the winter months might be windier.
   * Spring (Apr - Jun): Pressure dips in April and May, with a slight increase in June.
   * Summer (Jul - Sep): Pressure remains relatively stable, with minor fluctuations through July, August, and September.
   * Fall (Oct - Dec): Pressure increases in October, peaks in November, and remains high in December.
+### Anomalies and Unusual Patterns:
+#### 1. Temperature:
+Anomaly: There doesn’t appear to be a significant anomaly in the temperature data, as the values follow a typical seasonal pattern with colder winter months and warmer summer months.
+Conclusion: No major anomalies observed in temperature data.
+#### 2. Dew Point Temperature:
+Anomaly: The dew point temperature in April (-1.93°C) is significantly lower than in May (8.08°C) and March (-3.49°C).
+Possible Reason: This could be due to an unseasonably cold spell in April, where the air was dry and temperatures were low, causing a sharp decrease in the dew point.
+#### 3. Humidity:
+Anomaly: The humidity is relatively low in April (56.15%) compared to the surrounding months.
+Possible Reason: April might have experienced unusually dry conditions, possibly due to a lack of precipitation or an increase in temperature, which can lower humidity levels.
+#### 4. Wind Speed:
+Anomaly: The wind speed in January (18.11 km/h) and December (17.61 km/h) is notably higher than in the other months, especially July (11.89 km/h).
+Possible Reason: The higher wind speeds in winter could be due to stronger storm systems, as winter often brings more dynamic weather patterns with strong winds. July’s lower wind speed might be due to more stable, calmer summer weather.
+#### 5. Visibility:
+Anomaly: The visibility in December (19.73 km) is much lower compared to the summer months like July (33.66 km).
+Possible Reason: December’s low visibility could be due to winter fog, mist, or snow, which are common in colder months and can significantly reduce visibility. The summer months, especially July, typically have clearer conditions with less atmospheric moisture or particulates, leading to higher visibility.
+#### 6. Pressure:
+Anomaly: The pressure in April (100.72 hPa) is slightly lower compared to March (101.34 hPa) and May (101.06 hPa).
+Possible Reason: April might have experienced a significant low-pressure system, which is often associated with stormy or unsettled weather. This could explain the dip in pressure during that month.
+
+
+
+Conclusion:
+April Anomalies: Both humidity and pressure show anomalies in April, suggesting that this month might have experienced atypical weather conditions, such as a storm system or an unusual cold snap, leading to lower pressure and humidity levels.
+December Anomalies: December shows anomalies in visibility and wind speed, potentially due to winter weather patterns like fog, mist, or snow reducing visibility, and stronger winds associated with winter storms.
+Winter vs. Summer Patterns: There is a clear contrast between winter and summer months in terms of wind speed and visibility, reflecting the typical seasonal differences where winter brings more dynamic and sometimes harsher weather conditions.
