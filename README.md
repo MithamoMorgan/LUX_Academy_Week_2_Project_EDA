@@ -4,4 +4,9 @@ The aim of the project is to perform exploratory data analysis to uncover intere
 The dataset has  8784 entries and 8 columns which are;
 * Date/Time </br>
 * Temp_C </br>
-* Dew Point Temp_c
+* Dew Point Temp_c </br>
+* Rel Hum_% </br>
+* Wind Speed_Km/h </br>
+* Visibility_Km </br>
+* Press_Kpa </br>
+* Weather </br>
