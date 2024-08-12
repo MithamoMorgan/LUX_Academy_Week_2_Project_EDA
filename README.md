@@ -18,10 +18,10 @@ The dataset do not have any missing, null values or duplicate records.
 * **Lowest Temperature:** The lowest average temperature occurs in January (-7.37°C), which is typical for winter.
 * **Highest Temperature:** The highest average temperature is in July (22.79°C), indicating the peak of summer warmth.
 * **Seasonal Variation:**</br>
-  Winter (Jan - Mar): The temperatures are below freezing, with January being the coldest month.
-  Spring (Apr - Jun): The temperatures rise steadily, indicating a warming trend as the season progresses.
-  Summer (Jul - Sep): Temperatures peak in July, with slight cooling beginning in September.
-  Fall (Oct - Dec): The temperatures gradually drop, with November and December showing a return to near or below freezing     conditions.
+  * Winter (Jan - Mar): The temperatures are below freezing, with January being the coldest month.
+  * Spring (Apr - Jun): The temperatures rise steadily, indicating a warming trend as the season progresses.
+  * Summer (Jul - Sep): Temperatures peak in July, with slight cooling beginning in September.
+  * Fall (Oct - Dec): The temperatures gradually drop, with November and December showing a return to near or below freezing     conditions.
 ### Dew Point Temp:
 * Overall Trend: The values start in the negative during the winter months, increase through spring and summer, and then decrease again as winter approaches.
 * Lowest Dew Point: The lowest dew point occurs in January (-12.29°C), suggesting very dry air during the winter, which is typical for colder months.
