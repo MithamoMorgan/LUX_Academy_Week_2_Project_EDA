@@ -72,7 +72,7 @@ that the winter months might be windier.
 Anomaly: There doesn’t appear to be a significant anomaly in the temperature data, as the values follow a typical seasonal pattern with colder winter months and warmer summer months.
 Conclusion: No major anomalies observed in temperature data.
 #### 2. Dew Point Temperature:
-Anomaly: The dew point temperature in April (-1.93°C) is significantly lower than in May (8.08°C) and March (-3.49°C).
+Anomaly: The dew point temperature in April (-1.93°C) is significantly lower than in May (8.08°C).
 Possible Reason: This could be due to an unseasonably cold spell in April, where the air was dry and temperatures were low, causing a sharp decrease in the dew point.
 #### 3. Humidity:
 Anomaly: The humidity is relatively low in April (56.15%) compared to the surrounding months.
